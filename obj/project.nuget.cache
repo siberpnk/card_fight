@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4wORvAhsJ0cx6ObHuT5zG8WH1AGWxv2dBZBQJ6nuzbs3QbVTvHHcdHqsYO//Z8BUcsMc3dtapTSyVv0Hpcmpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rook\\source\\repos\\card_fight\\card_fight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rook\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\rook\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\rook\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\rook\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\rook\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\rook\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

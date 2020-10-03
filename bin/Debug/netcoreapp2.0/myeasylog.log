@@ -1,0 +1,1047 @@
+2020-08-10 10:46:25,740 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\./assets/d2deathlogo-1280x.bmp)
+2020-08-10 10:46:25,800 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 10:46:25,811 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 10:49:05,845 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\./assets/d2deathlogo-1280x.bmp)
+2020-08-10 10:49:05,933 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 10:49:05,936 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 10:50:44,372 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\assets/test.bmp)
+2020-08-10 10:50:44,420 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 10:50:44,421 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 10:55:38,880 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test.bmp)
+2020-08-10 10:55:38,945 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 10:55:38,946 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:01:39,579 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test.bmp)
+2020-08-10 11:01:39,626 WARNING [default] Trying to set cell details of invalid bitmap.
+2020-08-10 11:01:39,629 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:01:39,630 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:04:19,624 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test2.png)
+2020-08-10 11:04:19,672 WARNING [default] Trying to set cell details of invalid bitmap.
+2020-08-10 11:04:19,674 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:04:19,674 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:04:57,069 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test2.png)
+2020-08-10 11:04:57,108 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:04:57,110 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:10:45,764 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\C:/Users/rook/source/repos/card_fight/assetstest.bmp)
+2020-08-10 11:10:45,814 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:10:45,817 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:11:32,667 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\C:/Users/rook/source/repos/card_fight/assetstest2.png)
+2020-08-10 11:11:32,713 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:11:32,714 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:14:32,088 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\assets/test.bmp)
+2020-08-10 11:14:32,130 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:14:32,131 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:17:25,653 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\./assets/test.bmp)
+2020-08-10 11:21:59,672 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_fight/assets/test.bmp)
+2020-08-10 11:21:59,754 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:21:59,755 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:23:21,864 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test2.png)
+2020-08-10 11:23:21,914 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:23:21,921 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-10 11:25:56,533 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\test2.png)
+2020-08-10 11:25:56,597 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-10 11:25:56,598 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-12 21:41:10,108 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\dd_survivor.png)
+2020-08-12 21:41:10,129 WARNING [default] Trying to set cell details of invalid bitmap.
+2020-08-12 21:41:10,131 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-12 21:41:10,131 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-12 21:41:39,904 WARNING [default] Unable to locate file for test (../../../Resources/imagesdd_survivor.png)
+2020-08-12 21:41:39,936 WARNING [default] Trying to set cell details of invalid bitmap.
+2020-08-12 21:41:39,938 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-12 21:41:39,938 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-12 21:45:33,014 WARNING [default] Unable to locate file for test (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../dd_survivor.png)
+2020-08-12 21:45:33,044 WARNING [default] Trying to set cell details of invalid bitmap.
+2020-08-12 21:45:33,046 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-12 21:45:33,047 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 11:56:02,755 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 11:56:02,769 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 11:56:02,770 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 11:56:02,777 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 11:56:02,777 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 11:56:02,778 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 12:13:03,639 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 12:13:03,659 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 12:13:03,660 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 12:13:03,681 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 12:13:03,682 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 12:13:03,683 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 12:15:20,038 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 12:15:20,060 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 12:15:20,064 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 12:15:20,081 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 12:15:20,082 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 12:15:20,083 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,118 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:11:05,191 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,192 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,212 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:11:05,215 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,222 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,492 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:11:05,494 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,500 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,503 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:11:05,537 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,579 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,614 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:11:05,617 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,619 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:11:05,623 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:11:05,683 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:11:05,689 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:16,818 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:12:16,837 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:16,838 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:16,860 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:12:16,864 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:16,867 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:17,292 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:12:17,307 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:17,315 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:17,374 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:12:17,378 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:17,384 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:17,457 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:12:17,469 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:17,472 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:12:17,474 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:12:17,559 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:12:17,562 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:02,751 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:13:02,828 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:02,830 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:02,854 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:13:02,863 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:02,891 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:03,301 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:13:03,378 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:03,449 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:03,455 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:13:03,461 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:03,470 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:03,568 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:13:03,573 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:03,585 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:13:03,588 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:13:03,593 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:13:03,600 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,245 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:14:57,312 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,314 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,337 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:14:57,345 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,365 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,788 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:14:57,805 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,817 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,823 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:14:57,833 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,839 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,919 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:14:57,921 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,928 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:14:57,933 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:14:57,936 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:14:57,941 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:58,662 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:22:58,681 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:58,682 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:58,714 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:22:58,716 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:58,729 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:59,031 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:22:59,040 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:59,105 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:59,112 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:22:59,119 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:59,181 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:59,380 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:22:59,430 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:59,472 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:22:59,475 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:22:59,479 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:22:59,485 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,490 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:23:42,502 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,503 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,513 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:23:42,519 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,520 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,614 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:23:42,618 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,621 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,624 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:23:42,628 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,629 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,668 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:23:42,670 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,672 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:23:42,675 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:23:42,677 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:23:42,679 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:14,796 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:24:14,815 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:14,817 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:14,833 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:24:14,834 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:14,840 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:15,118 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:24:15,120 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:15,125 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:15,178 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:15,190 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:15,194 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:15,364 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:15,366 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:15,368 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:15,376 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:15,378 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:15,388 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,347 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 14:24:48,388 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,448 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,468 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 14:24:48,515 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,521 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,686 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 14:24:48,689 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,699 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,703 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:48,706 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,712 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,779 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:48,784 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,787 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 14:24:48,795 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 14:24:48,797 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 14:24:48,800 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:47,998 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 16:55:48,053 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,056 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:48,079 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 16:55:48,082 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,125 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:48,507 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 16:55:48,509 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,520 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:48,534 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 16:55:48,539 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,546 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:48,615 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 16:55:48,625 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,628 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 16:55:48,632 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 16:55:48,637 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 16:55:48,640 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:25,557 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:00:25,573 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:25,574 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:25,590 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:00:25,595 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:25,602 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:26,049 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:00:26,052 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:26,056 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:26,064 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:00:26,067 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:26,078 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:26,284 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:00:26,289 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:26,292 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:00:26,302 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:00:26,305 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:00:26,310 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:40,108 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:04:40,177 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:40,178 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:40,199 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:04:40,250 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:40,257 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:40,610 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:04:40,629 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:40,635 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:40,648 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:04:40,653 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:40,729 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:40,941 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:04:41,019 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:41,022 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:04:41,032 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:04:41,036 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:04:41,049 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:26,723 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:06:26,822 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:26,885 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:26,909 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:06:26,912 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:26,914 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:27,320 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:06:27,322 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:27,334 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:27,348 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:06:27,390 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:27,393 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:27,472 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:06:27,543 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:27,549 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:06:27,554 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:06:27,556 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:06:27,559 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:07:59,508 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:07:59,549 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:07:59,550 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:07:59,573 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:07:59,583 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:07:59,598 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:07:59,943 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:07:59,946 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:07:59,953 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:07:59,955 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:07:59,958 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:07:59,961 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:08:00,039 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:08:00,042 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:08:00,047 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:08:00,051 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:08:00,054 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:08:00,056 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,350 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:11:56,369 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,370 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,398 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:11:56,399 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,405 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,581 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:11:56,589 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,593 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,601 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:11:56,604 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,607 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,690 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:11:56,692 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,695 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:11:56,699 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:11:56,706 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:11:56,709 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:17,551 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:18:17,599 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:17,600 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:17,617 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:18:17,618 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:17,621 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:17,920 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:18:17,927 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:17,930 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:17,939 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:17,942 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:17,946 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:18,022 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:18,030 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:18,035 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:18,038 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:18,040 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:18,049 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:43,736 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 17:18:43,754 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:43,762 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:43,854 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 17:18:43,859 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:43,878 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:44,337 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 17:18:44,350 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:44,353 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:44,358 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:44,361 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:44,368 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:44,440 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:44,446 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:44,449 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 17:18:44,456 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 17:18:44,459 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 17:18:44,463 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:53,578 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 21:46:53,601 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:53,602 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:53,616 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 21:46:53,671 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:53,672 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:53,960 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 21:46:53,976 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:53,978 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:53,981 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:46:53,989 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:53,995 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:54,063 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:46:54,071 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:54,080 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:46:54,085 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:46:54,087 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:46:54,097 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,047 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 21:49:01,111 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,112 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,126 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 21:49:01,127 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,178 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,513 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 21:49:01,577 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,581 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,629 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:01,631 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,634 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,695 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:01,707 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,718 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:01,721 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:01,723 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:01,726 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:58,837 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-13 21:49:58,881 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:58,898 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:58,931 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-13 21:49:58,965 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:58,984 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:59,297 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-13 21:49:59,303 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:59,307 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:59,368 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:59,381 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:59,385 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:59,512 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:59,514 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:59,516 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-13 21:49:59,518 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-13 21:49:59,519 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-13 21:49:59,522 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:39,674 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:01:39,702 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:39,703 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:39,736 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:01:39,737 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:39,739 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:39,864 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:01:39,876 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:39,883 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:39,893 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:01:39,919 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:39,927 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:39,995 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:01:39,999 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:40,002 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:01:40,009 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:01:40,012 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:01:40,015 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:32,970 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:03:32,997 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,003 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:33,024 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:03:33,025 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,025 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:33,028 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:03:33,029 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,030 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:33,031 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:03:33,037 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,039 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:33,045 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:03:33,047 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,047 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:03:33,049 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:03:33,051 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:03:33,053 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:06:54,439 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../card_bastard_joker.png)
+2020-08-14 11:06:54,456 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:06:54,457 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:06:54,477 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../world_bastard_joker.png)
+2020-08-14 11:06:54,478 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:06:54,479 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:06:54,481 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../effect)
+2020-08-14 11:06:54,481 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:06:54,482 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,134 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:09:43,156 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,158 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,184 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:09:43,188 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,188 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,191 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:09:43,193 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,193 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,194 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:09:43,195 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,202 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,205 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:09:43,206 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,206 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:09:43,209 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:09:43,214 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:09:43,224 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,840 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:10:22,899 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,913 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,935 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:10:22,937 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,937 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,942 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:10:22,945 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,950 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,951 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:10:22,951 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,952 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,956 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:10:22,963 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,964 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:10:22,966 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:10:22,968 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:10:22,972 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,326 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:12:02,340 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,341 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,363 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:12:02,364 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,364 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,365 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:12:02,366 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,367 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,368 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:12:02,369 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,370 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,377 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:12:02,378 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,379 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:12:02,381 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:12:02,383 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:12:02,387 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,787 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:13:01,800 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,801 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,818 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:13:01,822 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,823 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,825 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:13:01,833 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,834 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,835 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:13:01,836 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,836 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,845 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:13:01,846 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,847 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:13:01,848 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:13:01,850 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:13:01,861 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:12,950 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:14:12,968 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:12,968 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:12,990 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:14:12,992 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:12,993 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:12,997 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:14:12,998 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:12,998 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:13,000 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:14:13,005 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:13,006 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:13,015 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:14:13,016 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:13,017 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:14:13,018 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:14:13,019 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:14:13,030 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,127 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:17:15,149 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,150 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,183 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:17:15,185 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,186 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,189 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:17:15,196 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,197 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,199 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:17:15,202 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,203 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,235 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:17:15,236 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,237 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:17:15,239 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:17:15,248 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:17:15,254 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:51,981 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:21:52,002 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,003 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:52,029 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:21:52,032 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,033 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:52,035 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:21:52,035 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,036 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:52,037 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:21:52,038 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,038 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:52,046 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:21:52,049 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,055 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:21:52,058 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:21:52,059 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:21:52,063 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,282 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:25:37,302 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,303 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,328 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:25:37,332 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,334 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,343 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:25:37,344 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,345 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,347 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:25:37,352 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,352 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,357 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:25:37,357 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,358 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:25:37,359 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:25:37,359 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:25:37,374 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,030 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:26:27,050 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,058 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,078 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:26:27,080 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,081 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,083 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:26:27,084 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,085 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,086 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:27,092 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,093 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,104 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:27,105 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,106 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:27,107 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:27,108 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:27,109 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,642 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:26:54,675 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,676 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,727 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:26:54,740 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,744 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,745 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:26:54,746 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,746 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,752 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:54,754 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,755 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,764 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:54,765 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,771 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:26:54,773 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:26:54,777 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:26:54,778 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,600 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:28:27,618 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,619 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,643 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:28:27,644 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,645 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,646 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:28:27,647 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,647 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,649 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:28:27,650 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,652 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,655 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:28:27,659 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,661 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:28:27,662 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:28:27,663 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:28:27,663 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:09,852 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:34:09,879 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:09,880 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:09,921 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:34:09,931 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:09,936 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:10,119 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:34:10,126 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:10,132 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:10,141 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:34:10,144 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:10,153 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:10,233 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:34:10,235 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:10,247 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:34:10,251 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:34:10,252 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:34:10,260 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,082 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 11:48:49,117 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,134 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,158 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 11:48:49,160 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,162 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,165 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 11:48:49,165 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,166 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,173 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:48:49,174 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,175 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,179 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:48:49,182 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,183 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 11:48:49,185 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 11:48:49,186 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 11:48:49,186 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,046 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:18:49,066 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,067 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,091 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:18:49,092 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,095 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,253 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:18:49,257 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,261 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,268 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:18:49,271 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,280 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,365 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:18:49,368 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,378 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:18:49,383 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:18:49,388 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:18:49,390 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,295 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:19:59,323 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,324 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,347 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:19:59,351 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,353 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,357 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:19:59,364 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,365 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,372 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:19:59,373 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,374 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,392 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:19:59,394 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,395 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:19:59,395 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:19:59,397 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:19:59,397 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:58,673 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:24:58,905 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:58,975 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:59,052 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:24:59,066 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:59,074 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:59,084 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:24:59,092 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:59,095 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:59,098 WARNING [default] Unable to locate file for Masked Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:24:59,107 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:59,108 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:59,118 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:24:59,139 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:59,141 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:24:59,151 WARNING [default] Unable to locate file for  (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:24:59,159 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:24:59,160 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:28:21,519 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:28:21,534 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:28:21,535 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:28:21,552 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:28:21,554 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:28:21,555 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:38:04,214 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:38:04,230 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:38:04,231 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:38:04,256 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:38:04,258 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:38:04,269 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:44:10,478 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:44:10,490 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:44:10,495 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:44:10,522 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:44:10,523 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:44:10,526 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:46:43,552 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:46:43,578 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:46:43,579 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:46:43,609 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:46:43,611 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:46:43,614 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:46:43,811 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:46:43,816 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:46:43,824 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:46:43,831 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:46:43,837 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:46:43,841 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:51:19,617 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:51:19,632 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:51:19,635 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:51:19,668 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:51:19,682 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:51:19,701 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:51:19,924 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:51:19,935 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:51:19,958 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:51:19,967 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:51:19,972 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:51:19,982 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,475 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:54:55,491 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,492 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,514 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:54:55,516 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,521 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,686 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:54:55,692 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,701 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,707 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:54:55,708 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,717 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,789 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:54:55,796 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,801 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:54:55,805 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:54:55,808 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:54:55,812 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:46,780 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:56:46,792 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:46,794 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:46,818 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:56:46,820 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:46,826 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:47,012 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:56:47,017 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:47,020 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:47,024 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:56:47,029 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:47,036 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:47,124 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:56:47,130 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:47,132 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:56:47,135 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:56:47,144 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:56:47,147 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,213 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 12:57:30,230 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,231 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,258 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 12:57:30,262 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,262 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,278 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 12:57:30,279 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,280 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,281 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:57:30,282 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,285 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,298 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:57:30,298 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,299 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 12:57:30,300 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 12:57:30,301 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 12:57:30,308 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:36,952 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 13:05:36,980 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:36,982 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:37,005 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 13:05:37,006 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:37,009 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:37,221 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 13:05:37,229 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:37,233 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:37,243 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:05:37,248 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:37,259 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:37,347 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:05:37,393 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:37,426 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:05:37,439 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:05:37,445 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:05:37,453 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,790 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\card_bastard_joker.png)
+2020-08-14 13:06:18,803 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,805 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,824 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 13:06:18,826 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,829 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,885 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\effect)
+2020-08-14 13:06:18,888 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,889 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,892 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:06:18,893 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,896 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,904 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:06:18,908 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,910 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:06:18,912 WARNING [default] Unable to locate file for lol (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:06:18,913 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:06:18,914 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:07:45,167 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assetscard_bastard_joker.png)
+2020-08-14 13:07:45,179 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:07:45,186 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:07:45,208 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\world_bastard_joker.png)
+2020-08-14 13:07:45,210 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:07:45,211 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:07:45,255 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assetseffect)
+2020-08-14 13:07:45,260 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:07:45,263 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-14 13:07:45,275 WARNING [default] Unable to locate file for Naga Sniper (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\)
+2020-08-14 13:07:45,276 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-14 13:07:45,277 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:24:02,602 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:24:02,614 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:24:02,615 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:26:40,887 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:26:40,893 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:26:40,894 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:30:21,192 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:30:21,202 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:30:21,205 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:35:58,736 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:35:58,747 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:35:58,749 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:39:19,886 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:39:19,897 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:39:19,898 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:39:59,969 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:39:59,977 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:39:59,978 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:45:33,346 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:45:33,352 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:45:33,353 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:46:15,201 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:46:15,208 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:46:15,209 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:48:00,810 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:48:00,820 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:48:00,821 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:51:46,553 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:51:46,564 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:51:46,565 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:52:37,411 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:52:37,419 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:52:37,419 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:53:11,972 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:53:11,981 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:53:11,985 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:53:42,180 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:53:42,192 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:53:42,193 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:54:16,353 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:54:16,364 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:54:16,369 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:54:56,706 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:54:56,718 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:54:56,718 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:55:51,942 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:55:51,952 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:55:51,954 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:56:28,586 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:56:28,596 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:56:28,597 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:56:49,453 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:56:49,461 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:56:49,461 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:57:13,042 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:57:13,053 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:57:13,053 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 01:58:42,360 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 01:58:42,367 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 01:58:42,369 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 23:08:47,011 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 23:08:47,024 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 23:08:47,025 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 23:21:33,672 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 23:21:33,683 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 23:21:33,685 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-22 23:25:01,159 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-22 23:25:01,174 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-22 23:25:01,175 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:09:05,167 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:09:05,177 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:09:05,178 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:09:42,930 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:09:42,955 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:09:42,956 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:10:11,979 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:10:11,987 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:10:11,988 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:10:32,336 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:10:32,345 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:10:32,346 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:11:42,817 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:11:42,827 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:11:42,828 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:12:04,684 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:12:04,692 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:12:04,693 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:29:17,645 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:29:17,657 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:29:17,658 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-23 00:30:11,860 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-23 00:30:11,931 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-23 00:30:11,947 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:24:45,402 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:24:45,406 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:24:45,406 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:25:14,964 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:25:14,969 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:25:14,970 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:36:38,631 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:36:38,639 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:36:38,639 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:37:10,725 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:37:10,736 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:37:10,736 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:48:42,720 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:48:42,731 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:48:42,732 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:49:21,670 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:49:21,680 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:49:21,681 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:49:52,837 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:49:52,841 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:49:52,841 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:50:30,660 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:50:30,666 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:50:30,666 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:51:10,326 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:51:10,332 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:51:10,332 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:51:49,435 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:51:49,441 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:51:49,441 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:52:10,389 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:52:10,398 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:52:10,398 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:52:32,772 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:52:32,778 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:52:32,778 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:59:13,518 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:59:13,525 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:59:13,526 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 10:59:37,075 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 10:59:37,082 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 10:59:37,083 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:00:00,048 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:00:00,057 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:00:00,058 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:40:33,565 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:40:33,574 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:40:33,575 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:42:19,424 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:42:19,429 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:42:19,429 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:44:44,488 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:44:44,495 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:44:44,496 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:48:56,597 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:48:56,603 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:48:56,604 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 11:54:40,625 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 11:54:40,635 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 11:54:40,636 WARNING [default] Attempting to get width of invalid bitmap
+2020-08-28 12:08:23,920 WARNING [default] Unable to locate file for Bastard Joker (C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\images\../../../assets/c_bastard_joker.png)
+2020-08-28 12:08:23,929 WARNING [default] Attempting to get height of invalid bitmap
+2020-08-28 12:08:23,929 WARNING [default] Attempting to get width of invalid bitmap

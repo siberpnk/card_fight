@@ -1,0 +1,12 @@
+C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\card_fight.deps.json
+C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\card_fight.runtimeconfig.json
+C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\card_fight.runtimeconfig.dev.json
+C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\card_fight.dll
+C:\Users\rook\source\repos\card_fight\bin\Debug\netcoreapp2.0\card_fight.pdb
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.csprojAssemblyReference.cache
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.AssemblyInfoInputs.cache
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.AssemblyInfo.cs
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.csproj.CoreCompileInputs.cache
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.dll
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.pdb
+C:\Users\rook\source\repos\card_fight\obj\Debug\netcoreapp2.0\card_fight.genruntimeconfig.cache

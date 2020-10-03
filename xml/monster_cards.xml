@@ -1,0 +1,63 @@
+<monster_cards>
+	<cards>
+		<card name="Bastard Joker"  >
+			<stats lvl="2" atk="200" def="100" elem="dark" type="fiend" s_type="normal"/>
+			<flav_txt>"I'm the Jokah baybee"</flav_txt>
+			<eff_txt>
+			"on flip: target 2 monsters either dragon or aqua with the subtype of either ritual or normal and with an element of dark or fire, sacrifice an allie anywhere on the map, after 3 turns destroy the selected targets, special summon 1 level 8 beast monster, AND if you do target 2 more monsters and destroy them OR banish any cards special summoned by this effect"
+			</eff_txt>
+			<effect>
+				<targets count="2" />
+				<condition_flags timer="3" flip="true" on_summon="false" on_ssummon="false" on_kill="false" on_death="false" on_move="false" sacrifice="1" sac_range_inf="true" />
+				<scope_flags card_type="monster" m_type="dragon,aqua" m_subtype="ritual,normal" elem="dark,fire" targ_align="all" atk="" def="" lvl="4" nsum="false" ssum="false" summ_in_chain="false" />
+				<state_flags deck="false" death="true" banished="false" disarm="false" mgk_imm="false" />
+				<!-- adj_atk & adj_def 0 is absolute, change relatively with - or + -->
+				<other_flags ssummon="0" move="0"  adj_atk="" adj_def=""/>	
+				<!-- if an AND tag fails the test then proceeds to the OR tag-->				
+				<AND>
+					<scope_flags type="fiend" lvl="lte,8" />
+					<other_flags ssumm="1"/>		
+					
+					<AND>
+						<scope_flags card_type="monster" />
+						<targets count="2" />
+						<state_flags grave="true" />					
+					</AND>
+					
+					<OR>
+						<scope_flags sum_in_chain="true" />
+						<state_flags banish="true"/>					
+					</OR>
+				</AND>
+			</effect>
+			<assets card_s="c_bastard_joker.png" world_s="w_bastard_joker.png" />
+		</card>
+		
+		<card name="Naga Sniper" >
+			<stats lvl="2" atk="200" def="150" elem="Water" type="Aqua" s_type="Normal" /> 
+			<flav_txt>"..."</flav_txt>
+			<eff_txt>"after attacking damage is reduced to zero until next turn"</eff_txt>
+			<effect>
+				<condition_flags on_kill="true" />
+				<scope_flags targ_align="self" />
+				<other_flags adj_atk="0" adj_def="+0" />
+				
+				<AND>
+					<condition_flags timer="2" />
+					<scope_flags targ_align="self" />
+					<other_flags adj_atk="+1500" />
+				</AND>
+			</effect>
+			<assets card_s="naga.png" world_s="naga.png"/>
+		</card>
+		
+		<card name="lol">
+			<stats lvl="200" atk="200" def="200" elem="fire" type="Beast" s_type="fusion" />
+			<effect>
+				<!-- atk, def and lvl scope can be controlled by -gte(greater than or equal) -lt(less than), or other abreviated flags to determine breadth -->
+				<scope_flags atk="lt,3000" def="gte,2000" />
+			</effect>
+			<assets card_s="naga.png" _world_s="naga.png" />
+		</card>
+	</cards>
+</monster_cards>
